@@ -2,7 +2,7 @@
 
 ### 🌎 About me
 
-I'm a developer focused on building solutions that make a real-world impact. Currently, I'm working on something that's going to help users save money—more details coming soon.
+I'm a developer focused on building solutions that make a real-world impact. Currently, I'm working on something that's going to help people save money—more details coming soon.
 
 ### 🔥 Featured Personal Projects
 
