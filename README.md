@@ -10,7 +10,7 @@ I'm a developer focused on building solutions that make a real-world impact. Cur
 
 A mock inventory management app built to provide inventory tracking for Simon's Bakery (my made up business). 
 
-[Live](https://github.com/simon8800/inventory-mgmt/deployments/production) | [Repository](https://github.com/simon8800/inventory-mgmt)
+[Live](https://inventory-mgmt-production.up.railway.app/) | [Repository](https://github.com/simon8800/inventory-mgmt)
 
 #### Peekapost
 
