@@ -22,7 +22,7 @@ A message board where only registered users can view posts, built with user auth
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,jest,python,prisma,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,jest,python,prisma,postgres&perline=5)](https://skillicons.dev)
 
 #### Tools
 
