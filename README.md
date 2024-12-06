@@ -1,4 +1,4 @@
-## Hey there, I'm Simon Mei 👋
+## Hey there, I'm Simon 👋
 
 ### 🌎 About me
 
