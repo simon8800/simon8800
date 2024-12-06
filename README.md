@@ -11,6 +11,7 @@ I'm a developer focused on building solutions that make a real-world impact. Cur
 A minimal blogging website where users can share their stories and read other's stories with a customizable experience.
 
 [Frontend Repository](https://github.com/simon8800/blogit-frontend) built with React
+
 [Backend Repository](https://github.com/simon8800/blogit-backend) built with Express
 
 
