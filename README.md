@@ -25,7 +25,7 @@ A mock inventory management app built to provide inventory tracking for Simon's 
 
 #### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,express,nodejs,astro,jest,python,prisma,postgres&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,express,nodejs,astro,jest,python,prisma,postgres&perline=6)](https://skillicons.dev)
 
 #### Tools
 
