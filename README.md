@@ -19,7 +19,7 @@ A minimal blogging website where users can share their stories and read other's 
 
 A mock inventory management app built to provide inventory tracking for Simon's Bakery (my made up business). 
 
-[Live](https://inventory-mgmt-production.up.railway.app/) | [Repository](https://github.com/simon8800/inventory-mgmt)
+[Repository](https://github.com/simon8800/inventory-mgmt)
 
 ### 🛠️ Skills
 
